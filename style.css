@@ -10,10 +10,3 @@
 h2 {
     font-size: 35px;
 }
-
-#lasagna {
-    background-image: url(./images/lasagna.png);
-    background-repeat: no-repeat;
-    background-position: bottom;
-    padding: 50px;
-}
