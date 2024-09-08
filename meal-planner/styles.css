@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+.Day {
+    font-family: 'fantasy', 'cursive', 'Times New Roman', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: 25px;
+}
